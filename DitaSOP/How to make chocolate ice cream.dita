@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_i4m_c5j_px">
+    <title>How to Make Chocolate Ice Cream</title>
+    <shortdesc>If you want to make chocolate ice cream, then you've come to the right place. This
+        task will tell you how to make chocolate ice cream using the ICE-60W machine. </shortdesc>
+    <taskbody>
+        <context>Ingredients include: <ul id="ul_lnf_t5j_px">
+                <li>2/3 cup of cocoa powder</li>
+                <li>½ cup of granulated sugar</li>
+                <li>1/3 cup of packed brown sugar</li>
+                <li>1 pinch of kosher salt</li>
+                <li>1.5 cups of whole milk</li>
+                <li>3.5 cups of heavy cream</li>
+                <li>2 teaspoons of pure vanilla extract</li>
+            </ul><p><b>Steps:</b></p></context>
+        <steps>
+            <step>
+                <cmd>Combine all of the ingredients in a cup or bowl</cmd>
+            </step>
+            <step>
+                <cmd>Pour the combined ingredients into the cap with measurement cup</cmd>
+            </step>
+            <step>
+                <cmd>Turn on Cuisinart ICE 60-W</cmd>
+            </step>
+            <step>
+                <cmd>Select "ice cream" on the control panel</cmd>
+            </step>
+            <step>
+                <cmd>Let the ice cream churn and thicken for 20-25 minutes</cmd>
+            </step>
+            <step>
+                <cmd>Place ice cream into a tub place into freezer for 10-15 minutes</cmd>
+            </step>
+            <step>
+                <cmd>Take ice cream out of freezer, scoop the desired amount into a bowl</cmd>
+            </step>
+            <step>
+                <cmd>Add any toppings you want and enjoy!</cmd>
+                <stepresult>If you followed the instructions above, then you have successfully made
+                    chocolate ice cream. </stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

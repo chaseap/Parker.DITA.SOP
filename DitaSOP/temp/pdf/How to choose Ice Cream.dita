@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\chase\Desktop\DitaSOP\temp\pdf?><?workdir-uri file:/C:/Users/chase/Desktop/DitaSOP/temp/pdf/?><?path2project pdf\?><?path2project-uri pdf/?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_ebq_54j_px" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/C:/Users/chase/Desktop/How%20to%20choose%20Ice%20Cream.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="file:/C:/Users/chase/Desktop/How%20to%20choose%20Ice%20Cream.dita" xtrc="title:1;4:12">How to Choose "Ice Cream" on Cuisinart ICE-60W</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/chase/Desktop/How%20to%20choose%20Ice%20Cream.dita" xtrc="shortdesc:1;5:16">You've found Cuisinart ICE-60W in one of your class rooms. You're ready to eat some
+        delicious ice cream. But first, you must turn the machine on and select your treat. </shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/chase/Desktop/How%20to%20choose%20Ice%20Cream.dita" xtrc="taskbody:1;7:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/chase/Desktop/How%20to%20choose%20Ice%20Cream.dita" xtrc="context:1;8:18">For this task, all that you need is the ice cream machine. <p class="- topic/p " xtrf="file:/C:/Users/chase/Desktop/How%20to%20choose%20Ice%20Cream.dita" xtrc="p:1;8:81"/></context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/chase/Desktop/How%20to%20choose%20Ice%20Cream.dita" xtrc="steps:1;9:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/How%20to%20choose%20Ice%20Cream.dita" xtrc="step:1;10:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/How%20to%20choose%20Ice%20Cream.dita" xtrc="cmd:1;11:22">Plug in the Cuisinart ICE-60W into a power outlet. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/How%20to%20choose%20Ice%20Cream.dita" xtrc="step:2;13:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/How%20to%20choose%20Ice%20Cream.dita" xtrc="cmd:2;14:22">Press the power button located in the front of the matchine. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/How%20to%20choose%20Ice%20Cream.dita" xtrc="step:3;16:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/How%20to%20choose%20Ice%20Cream.dita" xtrc="cmd:3;17:22">Select the "Ice Cream" option on the control panel, located on the front of the
+                    machine. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mnp_1sj_px">
+    <title>How to Make Vanilla Ice Cream</title>
+    <shortdesc>Once the machine in turned on and you've selected the "ice cream" option on the
+        control panel, you're ready to make your ice cream. This task will tell you how to make
+        vanilla ice cream. </shortdesc>
+    <taskbody>
+        <context>Incredients include:<ul id="ul_uvq_hsj_px">
+                <li>1.5 cups of whole milk</li>
+                <li>1 cup and 2 tablespoons of granulated sugar</li>
+                <li>1 pinch of kosher salt</li>
+                <li>3 cups of heavy cream</li>
+                <li>1.5 tablespoons of pure vanilla extract</li>
+            </ul><b><text>Steps:</text></b><p/></context>
+        <steps>
+            <step>
+                <cmd>Combine all of the incredients in a cup or bowl</cmd>
+            </step>
+            <step>
+                <cmd>Pour the combined ingredients into the cap with measurement cup</cmd>
+            </step>
+            <step>
+                <cmd>Turn on Cuisinart ICE-60W</cmd>
+            </step>
+            <step>
+                <cmd>Select "ice cream" on the control panel</cmd>
+            </step>
+            <step>
+                <cmd>Let the ice cream churn and thicken for 20-25 minutes</cmd>
+            </step>
+            <step>
+                <cmd>Place ice cream into a tub, place into a freezer for about 10-15 minutes.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Take ice cream out of freezer, scoop the desired amount into a bowl and
+                    enjoy!</cmd>
+                <stepresult>If the steps above are correctly followed, then you have successfully
+                    made vanilla ice cream. </stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

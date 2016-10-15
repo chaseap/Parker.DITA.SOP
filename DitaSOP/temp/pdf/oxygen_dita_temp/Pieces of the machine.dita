@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\chase\OneDrive\Documents\GitHub\IceCreamSOP\DitaSOP\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_u5w_4wj_px" ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " class="- topic/topic concept/concept " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Pieces%20of%20the%20machine.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Pieces%20of%20the%20machine.dita" xtrc="title:1;4:9">Parts of the ICE-60W Machine</title>
+ <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Pieces%20of%20the%20machine.dita" xtrc="shortdesc:1;5:13">Below is a list of the parts that come with the ice cream machine and a short
+  description of each: </shortdesc>
+ <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Pieces%20of%20the%20machine.dita" xtrc="conbody:1;7:11">
+  <ul id="ul_pc4_kxj_px" class="- topic/ul " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Pieces%20of%20the%20machine.dita" xtrc="ul:1;8:26">
+   <li class="- topic/li " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Pieces%20of%20the%20machine.dita" xtrc="li:1;9:8">Cap With Measurement Cup: Pour recipe ingredients through the spout. You can also use other
+    ingredients (nuts, candies, etc.) without interrupting the freezing cycle. </li>
+   <li class="- topic/li " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Pieces%20of%20the%20machine.dita" xtrc="li:2;11:8">Easy-Lock Lid with Ingredient Spout: Transparent so that you can watch the freezing process.
+    Lid is designed to easily lock to the base. </li>
+   <li class="- topic/li " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Pieces%20of%20the%20machine.dita" xtrc="li:3;13:8">Mixing Arm: Mixes ingredients in freezer bowl. </li>
+   <li class="- topic/li " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Pieces%20of%20the%20machine.dita" xtrc="li:4;14:8">Freezer Bowl: Contains cooling liquid within double insulated wall to create fast and even
+    freezing. </li>
+   <li class="- topic/li " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Pieces%20of%20the%20machine.dita" xtrc="li:5;16:8">Control Panel: Select function with preset program time. </li>
+   <li class="- topic/li " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Pieces%20of%20the%20machine.dita" xtrc="li:6;17:8">Base: Contains heavy-duty motor system strong enough to handle ice cream, gelato, frozen
+    yogurt, and sorbet. </li>
+   <li class="- topic/li " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Pieces%20of%20the%20machine.dita" xtrc="li:7;19:8">Rubber Feet: Keeps base stationary during use. </li>
+   <li class="- topic/li " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Pieces%20of%20the%20machine.dita" xtrc="li:8;20:8">Cord Storage: Unused cord is easily pushed to the bottom of the base. </li>
+  </ul>
+ </conbody>
+</concept>

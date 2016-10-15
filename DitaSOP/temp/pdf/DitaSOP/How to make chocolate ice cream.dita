@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\chase\Desktop\DitaSOP\temp\pdf\DitaSOP?><?workdir-uri file:/C:/Users/chase/Desktop/DitaSOP/temp/pdf/DitaSOP/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_i4m_c5j_px" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="title:1;4:12">How to Make Chocolate Ice Cream</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="shortdesc:1;5:16">If you want to make chocolate ice cream, then you've come to the right place. This
+        task will tell you how to make chocolate ice cream using the ICE-60W machine. </shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="taskbody:1;7:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="context:1;8:18">Ingredients include: <ul id="ul_lnf_t5j_px" class="- topic/ul " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="ul:1;8:62">
+                <li class="- topic/li " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="li:1;9:21">2/3 cup of cocoa powder</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="li:2;10:21">½ cup of granulated sugar</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="li:3;11:21">1/3 cup of packed brown sugar</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="li:4;12:21">1 pinch of kosher salt</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="li:5;13:21">1.5 cups of whole milk</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="li:6;14:21">3.5 cups of heavy cream</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="li:7;15:21">2 teaspoons of pure vanilla extract</li>
+            </ul><p class="- topic/p " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="p:1;16:21"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="b:1;16:24">Steps:</b></p></context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="steps:1;17:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="step:1;18:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="cmd:1;19:22">Combine all of the ingredients in a cup or bowl</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="step:2;21:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="cmd:2;22:22">Pour the combined ingredients into the cap with measurement cup</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="step:3;24:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="cmd:3;25:22">Turn on Cuisinart ICE 60-W</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="step:4;27:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="cmd:4;28:22">Select "ice cream" on the control panel</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="step:5;30:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="cmd:5;31:22">Let the ice cream churn and thicken for 20-25 minutes</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="step:6;33:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="cmd:6;34:22">Place ice cream into a tub place into freezer for 10-15 minutes</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="step:7;36:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="cmd:7;37:22">Take ice cream out of freezer, scoop the desired amount into a bowl</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="step:8;39:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="cmd:8;40:22">Add any toppings you want and enjoy!</cmd>
+                <stepresult class="- topic/itemgroup task/stepresult " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20chocolate%20ice%20cream.dita" xtrc="stepresult:1;41:29">If you followed the instructions above, then you have successfully made
+                    chocolate ice cream. </stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

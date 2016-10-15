@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ebq_54j_px">
+    <title>How to Choose "Ice Cream" on Cuisinart ICE-60W</title>
+    <shortdesc>You've found Cuisinart ICE-60W in one of your class rooms. You're ready to eat some
+        delicious ice cream. But first, you must turn the machine on and select your treat. </shortdesc>
+    <taskbody>
+        <context>For this task, all that you need is the ice cream machine. <p/></context>
+        <steps>
+            <step>
+                <cmd>Plug in the Cuisinart ICE-60W into a power outlet. </cmd>
+            </step>
+            <step>
+                <cmd>Press the power button located in the front of the matchine. </cmd>
+            </step>
+            <step>
+                <cmd>Select the "Ice Cream" option on the control panel, located on the front of the
+                    machine. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

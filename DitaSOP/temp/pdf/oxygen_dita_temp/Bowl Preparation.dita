@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\chase\OneDrive\Documents\GitHub\IceCreamSOP\DitaSOP\temp\pdf\oxygen_dita_temp?><?workdir-uri file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_rrf_4fr_px" ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " class="- topic/topic concept/concept " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Bowl%20Preparation.dita" xtrc="concept:1;3:34">
+ <title class="- topic/title " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Bowl%20Preparation.dita" xtrc="title:1;4:9">Bowl Preparation</title>
+ <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Bowl%20Preparation.dita" xtrc="shortdesc:1;5:13">Below is as guide that tells users how to keep the freezer bowl frozen and how to
+  determine if it is ready for use. </shortdesc>
+ <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Bowl%20Preparation.dita" xtrc="conbody:1;7:11">
+  <p class="- topic/p " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Bowl%20Preparation.dita" xtrc="p:1;8:6">
+   <ul id="ul_vyy_cgr_px" class="- topic/ul " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Bowl%20Preparation.dita" xtrc="ul:1;9:27">
+    <li class="- topic/li " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Bowl%20Preparation.dita" xtrc="li:1;10:9">Freezer bowl must be completely frozen before the recipe is begun. </li>
+    <li class="- topic/li " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Bowl%20Preparation.dita" xtrc="li:2;11:9">Always leave the freezer bowl in the freezer when it isn't in use. </li>
+    <li class="- topic/li " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Bowl%20Preparation.dita" xtrc="li:3;12:9">Freezing time takes between 12-24 hours.</li>
+    <li class="- topic/li " xtrf="file:/C:/Users/chase/OneDrive/Documents/GitHub/IceCreamSOP/DitaSOP/Bowl%20Preparation.dita" xtrc="li:4;13:9">To determine if the bowl is completely frozen, shake it. If you hear liquid moving, then the
+     freezing process isn't complete. </li>
+   </ul>
+  </p>
+ </conbody>
+</concept>

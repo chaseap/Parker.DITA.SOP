@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_fkx_n2r_px">
+ <title>Troubleshooting</title>
+ <shortdesc>Below is a list of the most common problems with the machine and how to fix them if they
+  are encountered. </shortdesc>
+ <conbody>
+  <p>
+   <ul id="ul_gth_s2r_px">
+    <li><b>Problem: </b>The incorrect function was selected</li>
+    <li><b>Solution: </b>Reset the unit by pressing the start/stop button twice. </li>
+    <li><b>Problem: </b>The unit is beeping every few minutes</li>
+    <li><b>Solution: </b>Press the start/stop button, the process has completed. </li>
+    <li><b>Problem: </b>The unit stopped running</li>
+    <li><b>Solution: </b>Recipe is either complete or the load was too heavy. Press start/stop and
+     let the unit cool before restarting. </li>
+    <li><b>Problem: </b>Finished recipe is too thin</li>
+    <li><b>Solution: </b>Place freezer bowl back in freezer.</li>
+   </ul>
+  </p>
+ </conbody>
+</concept>

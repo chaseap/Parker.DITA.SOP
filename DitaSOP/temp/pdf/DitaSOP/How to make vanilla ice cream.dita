@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\chase\Desktop\DitaSOP\temp\pdf\DitaSOP?><?workdir-uri file:/C:/Users/chase/Desktop/DitaSOP/temp/pdf/DitaSOP/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_mnp_1sj_px" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="title:1;4:12">How to Make Vanilla Ice Cream</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="shortdesc:1;5:16">Once the machine in turned on and you've selected the "ice cream" option on the
+        control panel, you're ready to make your ice cream. This task will tell you how to make
+        vanilla ice cream. </shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="taskbody:1;8:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="context:1;9:18">Incredients include:<ul id="ul_uvq_hsj_px" class="- topic/ul " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="ul:1;9:61">
+                <li class="- topic/li " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="li:1;10:21">1.5 cups of whole milk</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="li:2;11:21">1 cup and 2 tablespoons of granulated sugar</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="li:3;12:21">1 pinch of kosher salt</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="li:4;13:21">3 cups of heavy cream</li>
+                <li class="- topic/li " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="li:5;14:21">1.5 tablespoons of pure vanilla extract</li>
+            </ul><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="b:1;15:21"><text class="- topic/text " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="text:1;15:27">Steps:</text></b><p class="- topic/p " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="p:1;15:48"/></context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="steps:1;16:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="step:1;17:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="cmd:1;18:22">Combine all of the incredients in a cup or bowl</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="step:2;20:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="cmd:2;21:22">Pour the combined ingredients into the cap with measurement cup</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="step:3;23:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="cmd:3;24:22">Turn on Cuisinart ICE-60W</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="step:4;26:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="cmd:4;27:22">Select "ice cream" on the control panel</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="step:5;29:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="cmd:5;30:22">Let the ice cream churn and thicken for 20-25 minutes</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="step:6;32:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="cmd:6;33:22">Place ice cream into a tub, place into a freezer for about 10-15 minutes.
+                </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="step:7;36:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="cmd:7;37:22">Take ice cream out of freezer, scoop the desired amount into a bowl and
+                    enjoy!</cmd>
+                <stepresult class="- topic/itemgroup task/stepresult " xtrf="file:/C:/Users/chase/Desktop/DitaSOP/How%20to%20make%20vanilla%20ice%20cream.dita" xtrc="stepresult:1;39:29">If the steps above are correctly followed, then you have successfully
+                    made vanilla ice cream. </stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

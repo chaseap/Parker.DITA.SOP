@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>DITA Topic Map</title>
+ <topicref href="Pieces%20of%20the%20machine.dita"/>
+ <topicref href="Bowl%20Preparation.dita"/>
+ <topicref href="How%20to%20choose%20Ice%20Cream.dita"/>
+ <topicref href="How%20to%20make%20chocolate%20ice%20cream.dita"/>
+ <topicref href="How%20to%20make%20vanilla%20ice%20cream.dita"/>
+ <topicref href="Troubleshooting.dita"/>
+</map>
